@@ -21,12 +21,12 @@
   },
   "BOT_ADMIN": {
     "description": "Enter your phone number to gain administrative access to the bot.",
-    "value": "254712345678",
+    "value": "233534970884",
     "required": true
   },
   "GITHUB_USERNAME": {
     "description": "You must set your github username to use the bot unless you're a premium user",
-    "value": "",
+    "value": "believer",
     "required": false
   },
    "BOT_PASSWORD": {
@@ -56,7 +56,7 @@
   },
     "ADMIN_PASSWORD": {
     "description": "This will be used as a password for gaining administrative access to the bot",
-    "value": "11223344",
+    "value": "87654321",
     "required": false
   }, 
     "TELEGRAM_BOT_TOKEN": {
