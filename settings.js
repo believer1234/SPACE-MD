@@ -5,7 +5,7 @@ module.exports = {
   SESSION_ID: process.env.SESSION_ID || '',
   
   //Enter your number here for administrative access to the bot
-  BOT_ADMIN: process.env.BOT_ADMIN || '254712345678',
+  BOT_ADMIN: process.env.BOT_ADMIN || '233534970884',
   
   //Bot web server port
   PORT: parseInt(process.env.PORT) || 2605,
@@ -20,7 +20,7 @@ module.exports = {
   //Enter the desired password for accessing administrative access to the bot 
   //⚠️ Do not share with anyone as they can use it to control your bot
    //Must be numbers only and a total of 8 digits
-  ADMIN_PASSWORD: parseInt(process.env.BOT_PASSWORD) || 11223344,
+  ADMIN_PASSWORD: parseInt(process.env.BOT_PASSWORD) || 87654321,
   
   //Enter telegram bot token for interaction with this bot via telegram (optional)
   TELEGRAM_BOT_TOKEN: process.env.TELEGRAM_BOT_TOKEN || '',
